@@ -1,8 +1,8 @@
-# stop_chart
+# Flutter Charts
 
-A new Flutter project.
+A simple app demonstrating how to use charts effectively to create a stop watch.
 
-## Getting Started
+## Further details
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+http://tphangout.com/?p=974
+
